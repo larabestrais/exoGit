@@ -7,6 +7,8 @@ Test des fonctions de **Git**
 
 ## To do 
 
-[] clone
-[] commit
-[] pull/push
+## DONE
+
+* clone
+* commit
+* push
